@@ -36,8 +36,8 @@
 
 🛠️**Tools used to build the project:**
 
-- Power BI
 - Excel for data processing
+- Power BI
 
 📬 **Feel free to connect or discuss this project:**
 
