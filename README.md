@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/5eb9fe18-6b7e-4041-b5f2-d4fe0bc88d27" width="900">
 </p>
 
-**By analyzing the dashboard, they will be able to:**
+🔎 **By analyzing the dashboard, they will be able to:**
 
 - Track KPIs such as gross revenue, gross profit, gross margin, total orders, returned orders, and average order value.
 - Monitor year-over-year and month-over-month growth for all KPIs.
