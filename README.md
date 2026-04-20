@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/69fa4cc0-700e-458d-b14a-50a26022395c" />
 </p>
 
+<p align="center">
   <img src="[SUA-IMAGEM](https://github.com/user-attachments/assets/5eb9fe18-6b7e-4041-b5f2-d4fe0bc88d27)" width="900">
 </p>
 
