@@ -5,7 +5,7 @@
 📊 This analysis aims to provide the management team with a complete **view of sales performance**.
 
 <p align="center">
-  <img src="[SUA-IMAGEM](https://github.com/user-attachments/assets/5eb9fe18-6b7e-4041-b5f2-d4fe0bc88d27)" width="900">
+  <img src="https://github.com/user-attachments/assets/5eb9fe18-6b7e-4041-b5f2-d4fe0bc88d27" width="900">
 </p>
 
 **By analyzing the dashboard, they will be able to:**
