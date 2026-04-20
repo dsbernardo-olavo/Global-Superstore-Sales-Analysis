@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/69fa4cc0-700e-458d-b14a-50a26022395c" />
 </p>
 📊 This analysis aims to provide the management team with a complete **view of sales performance**.
-
+<img width="3063" height="1718" alt="image" src="https://github.com/user-attachments/assets/d78a0e09-c7a0-42ea-bcb0-add8b29f1d06" />
 **By analyzing the dashboard, they will be able to:**
 
 - Track KPIs such as gross revenue, gross profit, gross margin, total orders, returned orders, and average order value.
@@ -15,7 +15,7 @@
 📈 **Key insights:**
 
 - Products receiving discounts have become unprofitable and are negatively impacting overall profitability
-- A small number of subcategories generate most of the profit (copies, phones, bookcases, appliances and chairs)
+- A small number of subcategories generate most of the profit (copiers, phones, bookcases, appliances and chairs)
 - Despite $15M in revenue, only $1.47M becomes profit suggesting high costs or excessive discounting 
 - Monthly revenue peaks in November and December likely due to holiday demand
 - There is a noticeable dip around April and July which could indicate off‑season or weaker marketing campaigns
