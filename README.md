@@ -27,7 +27,7 @@
 - The Tables subcategory shows a negative gross profit which is a clear red flag
 - Phones, Chairs and Bookcases dominate market share
 
-▶️ **How to Use This Project:**
+▶️ **How to use this project:**
 
 - Download the .pbix file from the dashboard folder
 - Open it in Power BI Desktop
